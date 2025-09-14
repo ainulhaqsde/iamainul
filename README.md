@@ -2,13 +2,15 @@
   Hi 👋, I'm Ainul Haq
 </h1>  
 
----
-
+<p align="center">
   <a href="https://portfolio-ainul.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
+</p>
 
-<h3 align="center">🚀 Final-year B.Tech CSE (Cyber Security) | Web Developer | DSA & Competitive Programming Enthusiast</h3>
+<h3 align="center">
+  🚀 Final-year B.Tech CSE (Cyber Security) | Web Developer | DSA & Competitive Programming Enthusiast
+</h3>
 
 ---
 
