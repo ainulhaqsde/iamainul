@@ -13,7 +13,7 @@
 - 💻 Passionate about **Web Development, Cybersecurity, and Data Science**  
 - 🚀 Built projects like **Telly Beans (Food Delivery App)** and **Book Velvet (Library Management System)**  
 - 🔐 Strong foundation in **Secure Coding, DSA, and Software Engineering**  
-- 🌱 Currently exploring **Next.js, Advanced Cybersecurity & AI in Web**  
+- 🌱 Currently exploring **JS, Advanced Cybersecurity & AI in Web**  
 - 💡 Always eager to solve real-world problems with tech  
 - ⚡ Fun fact: I enjoy mentoring peers and sharing knowledge  
 
@@ -62,9 +62,9 @@
 ---
 
 ### 🏆 Achievements
-- ⭐ Solved **340+ problems** on **LeetCode**  
-- ⭐ 300+ problems on **CodeChef, GFG & others**  
-- ⭐ **4⭐ HackerRank (Algorithmic Thinking)** | **3⭐ HackerRank (C/C++)**  
+- ⭐ Solved **240+ problems** on **LeetCode**  
+- ⭐ 100+ problems on **CodeChef, GFG & others**  
+- ⭐ **4 HackerRank (Algorithmic Thinking)** | **3⭐ HackerRank (C/C++)**  
 - 🥇 Active participant in coding contests & hackathons  
 
 ---
