@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">
-  🚀 Final-year B.Tech CSE (Cyber Security) | Web Developer | DSA & Competitive Programming Enthusiast
+  🚀 Final-year B.Tech CSE (Cyber Security) | Software Engineer | Web Developer | DSA & Competitive Programming Enthusiast
 </h3>
 
 ---
