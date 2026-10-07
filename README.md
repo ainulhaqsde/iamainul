@@ -71,40 +71,17 @@ const ainul = {
 
 <div align="center">
 
-### Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,react,nodejs,express,flask,mongodb,mysql,git,github,vscode,vercel" alt="Tech Stack" />
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript" alt="Languages"/>
+<br/><br/>
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend"/>
-
-### Backend & APIs
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend"/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Tools"/>
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+<img src="https://img.shields.io/badge/Stable_Diffusion-7B61FF?style=for-the-badge" alt="Stable Diffusion"/>
 
 </div>
-
-<br/>
-
-<div align="center">
-
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-7B61FF?style=for-the-badge)
-
-</div>
-
 ---
 
 # 📊 GitHub Analytics
