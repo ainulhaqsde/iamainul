@@ -98,10 +98,10 @@
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| 🤖 **USMA.AI** | ChatGPT-inspired AI platform featuring intelligent conversations, authentication, chat history, files, projects, research and AI-powered functionality. | `Next.js` `TypeScript` `MongoDB` `JWT` `AI APIs` | [GitHub](https://github.com/ainulhaqsde) |
-| 🔄 **Project LOOP** | AI-powered application focused on intelligent workflows, automation and modern full-stack development. | `Next.js` `TypeScript` `AI` `Full-Stack` | [GitHub](https://github.com/ainulhaqsde) |
-| 📚 **Smart Library** | Digital library management application designed to simplify management of books, members and library resources. | `Python` `Database` `Web Development` | [GitHub](https://github.com/ainulhaqsde) |
-| 🐍 **Neon Snake Game** | Modern browser-based Snake game featuring neon-inspired visuals, responsive gameplay and interactive controls. | `HTML5` `CSS3` `JavaScript` | [GitHub](https://github.com/ainulhaqsde) |
+| 🤖 **USMA.AI** | ChatGPT-inspired AI platform featuring intelligent conversations, authentication, chat history, files, projects, research and AI-powered functionality. | `Next.js` `TypeScript` `MongoDB` `JWT` `AI APIs` | [GitHub](https://github.com/ainulhaqsde/USMA.Ai) |
+| 🔄 **Project LOOP** | AI-powered Customer Feedback Intelligence Platform featuring sentiment analysis, theme detection, interactive analytics, AI-powered Q&A, Voice-of-Customer reports and secure authentication. | `React` `Vite` `JavaScript` `Node.js` `Express.js` `MongoDB` `Gemini AI` | [GitHub](https://github.com/ainulhaqsde/Project-LOOP) |
+| 📚 **Smart Library Management System** | Full-stack library management platform featuring Admin & Student dashboards, book management, self-borrowing and returns, automated due dates and fines, role-based access and secure authentication. | `HTML5` `CSS3` `JavaScript` `Node.js` `Express.js` `MongoDB` `JWT` | [GitHub](https://github.com/ainulhaqsde/Smart-Library-Management-System) |
+| 🐍 **Neon Snake Game** | Modern neon-styled browser Snake game featuring multiple difficulty levels, pause/resume functionality, glowing visuals, interactive gameplay and real-time scoring. | `HTML5` `CSS3` `JavaScript` | [GitHub](https://github.com/ainulhaqsde/Neon-Snake-Game) |
 | 🎨 **AI-Powered Text-to-Image Generator** | AI application that transforms text prompts into generated images using Stable Diffusion with API integration and asynchronous processing. | `Python` `Flask` `JavaScript` `Stable Diffusion` `Replicate API` | [GitHub](https://github.com/ainulhaqsde) |
 | 🍔 **Telly Beans** | Full-stack food delivery platform with authentication, role-based authorization, shopping cart and complete order management. | `React` `Node.js` `Express.js` `MongoDB` `JavaScript` | [GitHub](https://github.com/ainulhaqsde) |
 
