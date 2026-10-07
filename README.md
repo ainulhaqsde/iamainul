@@ -1,163 +1,92 @@
 <div align="center">
 
-# 👋 Hi, I'm Ainul Haq
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Ainul%20Haq&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
 
-### Software Engineer • Full-Stack Developer • AI Engineer
-
-<p>
-  I build scalable web applications, backend systems and AI-powered solutions.
-</p>
-
-<p>
-  <a href="https://portfolioainuldev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/ainulhaqsde">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ainulhaqsde@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ainulhaqsde&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/ainulhaqsde?label=Followers&style=flat&logo=github" alt="GitHub Followers"/>
-</p>
+### 💻 Software Engineer · Full-Stack Developer · AI Engineer
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🌟 About Me
 
-```javascript
-const ainul = {
-  role: "Software Engineer",
-  degree: "B.Tech CSE (Cyber Security)",
-
-  interests: [
-    "Software Engineering",
-    "Backend Development",
-    "Full-Stack Development",
-    "Generative AI",
-    "Data Analytics"
-  ],
-
-  technologies: {
-    languages: ["Python", "C++", "Java", "JavaScript"],
-    frontend: ["React.js", "HTML", "CSS"],
-    backend: ["Node.js", "Express.js", "Flask", "REST APIs"],
-    databases: ["MongoDB", "MySQL"],
-    ai: ["Generative AI", "LLMs", "Prompt Engineering"]
-  },
-
-  currentFocus: "Building scalable and AI-powered applications",
-  motto: "Build. Learn. Improve. Repeat."
-};
-```
-
-- 💻 Building **full-stack, backend and AI-powered applications**
-- 🤖 Exploring **Generative AI, LLMs and AI integrations**
-- ⚙️ Interested in **Software Engineering & Backend Development**
-- 🔐 Background in **Computer Science & Cyber Security**
+- 🎓 **B.Tech CSE (Cyber Security)** Student
+- 💻 Building **full-stack, backend & AI-powered applications**
+- 🤖 Exploring **Generative AI, LLMs, Prompt Engineering & AI integrations**
+- ⚙️ Interested in **Software Engineering, Backend Development & Full-Stack Development**
+- 🔐 Strong foundation in **Computer Science & Cyber Security**
 - 🧠 Solved **400+ DSA problems** across coding platforms
-- 🌱 Continuously improving my **development, AI and problem-solving skills**
+- ⭐ **4-Star HackerRank** programmer
+- 🌱 Continuously improving my **development, AI & problem-solving skills**
 - 🤝 Open to **Software Engineering, Full-Stack, Backend & AI opportunities**
+- 📬 Reach me at **ainulhaqsde@gmail.com**
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ainulhaqsde)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ainulhaqsde)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ainulhaqsde@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioainuldev.vercel.app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ainulhaqsde/)
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,react,nodejs,express,flask,mongodb,mysql,git,github,vscode,vercel" alt="Tech Stack" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br/><br/>
+### 🌐 Frontend Development
 
-<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge" alt="Prompt Engineering"/>
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
-<img src="https://img.shields.io/badge/Stable_Diffusion-7B61FF?style=for-the-badge" alt="Stable Diffusion"/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</div>
+### ⚙️ Backend Development
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-# 📊 GitHub Analytics
+### 🤖 AI / Generative AI
 
-<div align="center">
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-7B61FF?style=for-the-badge)
+![Replicate](https://img.shields.io/badge/Replicate_API-000000?style=for-the-badge)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ainulhaqsde&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Ainul Haq GitHub Stats"/>
+### 🗄️ Databases
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainulhaqsde&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</div>
+### 🧰 Tools & Platforms
 
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ainulhaqsde&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ainulhaqsde&theme=tokyo-night&hide_border=true&area=true&custom_title=Ainul%20Haq's%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Noteworthy Projects
 
-### 🤖 AI-Powered Text-to-Image Generator
-
-> AI-powered web application that transforms text prompts into generated images using Stable Diffusion.
-
-**Highlights**
-- Integrated AI image generation through the **Replicate API**
-- Built asynchronous request processing and API error handling
-- Implemented input validation for reliable requests
-- Optimized image-generation workflow
-
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![AI](https://img.shields.io/badge/Stable_Diffusion-7B61FF?style=flat-square)
-![API](https://img.shields.io/badge/Replicate_API-000000?style=flat-square)
-
----
-
-### 🍔 Telly Beans — Full-Stack Food Delivery Platform
-
-> Scalable full-stack food delivery application with authentication, authorization and complete order management.
-
-**Highlights**
-- JWT-based user authentication
-- Role-based access control
-- Shopping cart functionality
-- End-to-end order management
-- Reusable React components
-- MongoDB database optimization
-
-**Tech Stack**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🎨 **AI-Powered Text-to-Image Generator** | AI-powered web application that transforms text prompts into generated images using Stable Diffusion. Features Replicate API integration, asynchronous processing, input validation and API error handling. | `Python` `Flask` `JavaScript` `Stable Diffusion` `Replicate API` |
+| 🍔 **Telly Beans** | Full-stack food delivery platform featuring JWT authentication, role-based access control, shopping cart, complete order management and reusable React components. | `React` `Node.js` `Express.js` `MongoDB` `JavaScript` |
 
 ---
 
@@ -168,7 +97,7 @@ const ainul = {
 | 🏅 Achievement | 📈 Progress |
 |:---|:---:|
 | 🧠 DSA Problems | **400+ Solved** |
-| 💻 Platforms | **LeetCode • CodeChef • GeeksforGeeks** |
+| 💻 Coding Platforms | **LeetCode • CodeChef • GeeksforGeeks** |
 | ⭐ HackerRank | **4-Star Badge** |
 | 🚀 Development | **Full-Stack & AI Projects** |
 | 🔐 Cyber Security | **Ethical Hacking & Security Exposure** |
@@ -202,52 +131,3 @@ const ainul = {
 📊 Data Analytics
 🔐 Secure Software Development
 🌍 Open Source Contributions
-```
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="mailto:ainulhaqsde@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-<a href="https://linkedin.com/in/ainulhaqsde">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/ainulhaqsde">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://leetcode.com/u/ainulhaqsde/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-
-<a href="https://portfolioainuldev.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Developer Mindset
-
-> **"Efficiency, Security, and Innovation drive my coding journey."**
-
-<br/>
-
-### ⭐ Thanks for visiting!
-
-If you find my projects useful, consider giving them a ⭐.
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer"/>
-
-</div>
