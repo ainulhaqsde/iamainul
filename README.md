@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Ainul%20Haq&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Ainul%20Haq&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%" alt="Header"/>
 
 ### 💻 Software Engineer · Full-Stack Developer · AI Engineer
 
@@ -12,7 +13,7 @@
 
 ## 🌟 About Me
 
-- 🎓 **B.Tech CSE (Cyber Security)** Student
+- 🎓 **B.Tech CSE (Cyber Security) Graduate**
 - 💻 Building **full-stack, backend & AI-powered applications**
 - 🤖 Exploring **Generative AI, LLMs, Prompt Engineering & AI integrations**
 - ⚙️ Interested in **Software Engineering, Backend Development & Full-Stack Development**
@@ -196,5 +197,7 @@ If you find my projects useful, consider giving them a ⭐.
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%" alt="Footer"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%" alt="Footer"/>
